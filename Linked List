@@ -1,0 +1,79 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.Scanner;
+ class Node
+ {
+    int data;
+    Node next;
+    Node(int data)
+    {
+        this.data=data;
+        this.next=null;
+    }
+ };
+class Main {
+    public static void main(String[] args) 
+    {
+        // Scanner input = new Scanner(System.in);
+        // int n = input.nextInt();
+        // while()
+        // {
+          
+        // }
+        Node n1=new Node(1);
+        Node n2=new Node(4);
+        Node n3 = new Node(8);
+        Node n4 = new Node(12);
+        n1.next=n2;
+        n2.next=n3;
+        n3.next=n4;
+      
+        System.out.println("\nNode Count:");
+        nodeCount(n1);
+        System.out.println("\nNode Values:");
+        printNode(n1);
+        
+    }
+    
+    ///dynamiclly create linked list------
+    // public Node createNode()
+    // {
+    //   Node temp = new Node();
+    //   int x = input.nextInt();
+       
+               
+    // }
+    
+    
+    ///print  node--------
+    public static  void printNode(Node head)
+    {
+        Node temp = head;
+        
+        while(temp!=null)
+        {
+            
+            System.out.println(temp.data);
+            temp=temp.next;
+            
+        }
+        
+
+    }
+    
+    ///count node-------
+     public static  void nodeCount(Node head)
+    {
+        Node temp = head;
+        int count =0;
+        while(temp!=null)
+        {
+            count++;
+            temp=temp.next;
+        }
+        System.out.println(count);
+        
+
+    }
+    
+}
