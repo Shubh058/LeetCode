@@ -1,0 +1,37 @@
+@@@@@209. Minimum Size Subarray Sum
+class Solution {
+    public int minSubArrayLen(int target, int[] nums)
+     
+     {
+        int slow=0;
+        int fast=0;
+        int minsize=0;
+        int sum=0;
+        while(fast<nums.length)
+        {
+            sum+=nums[fast];
+            if(sum<target)
+            {
+                fast++;
+            }
+            else
+            {
+               
+                if(minsize==0)
+                {
+                    minsize=fast-slow+1;
+                }
+
+                while(sum>=target)
+                {
+                    minsize=Math.min(minsize,fast-slow+1);
+                    sum-=nums[slow];
+                    slow++;
+                    
+                }
+                fast++;
+            }
+        }
+        return minsize;
+    }
+}
