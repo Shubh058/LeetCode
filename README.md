@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Matrix
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
