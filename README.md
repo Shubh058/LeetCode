@@ -18,6 +18,7 @@
 | ------- |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
 | ------- |
@@ -34,8 +36,13 @@
 |  |
 | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Binary Search
+|  |
+| ------- |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 <!---LeetCode Topics End-->
