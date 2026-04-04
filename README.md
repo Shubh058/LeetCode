@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shubh058/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shubh058/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Greedy
 |  |
@@ -31,6 +32,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shubh058/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
