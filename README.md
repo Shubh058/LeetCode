@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Shubh058/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shubh058/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Shubh058/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shubh058/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+## Hash Table
+|  |
+| ------- |
+| [0874-walking-robot-simulation](https://github.com/Shubh058/LeetCode/tree/master/0874-walking-robot-simulation) |
 <!---LeetCode Topics End-->
