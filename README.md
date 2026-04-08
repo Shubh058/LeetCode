@@ -21,6 +21,7 @@
 | [0874-walking-robot-simulation](https://github.com/Shubh058/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shubh058/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/Shubh058/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shubh058/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shubh058/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Shubh058/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shubh058/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
