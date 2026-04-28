@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Shubh058/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shubh058/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shubh058/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
@@ -52,6 +54,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
@@ -72,4 +75,8 @@
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shubh058/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shubh058/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Math
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
