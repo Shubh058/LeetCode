@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Shubh058/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0994-rotting-oranges](https://github.com/Shubh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/Shubh058/LeetCode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -54,6 +55,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Shubh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shubh058/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shubh058/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Shubh058/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
