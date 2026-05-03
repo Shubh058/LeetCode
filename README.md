@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shubh058/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Shubh058/LeetCode/tree/master/0796-rotate-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shubh058/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shubh058/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Greedy
@@ -14,6 +15,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Shubh058/LeetCode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shubh058/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
