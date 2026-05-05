@@ -87,4 +87,12 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Shubh058/LeetCode/tree/master/0994-rotting-oranges) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Shubh058/LeetCode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Shubh058/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
